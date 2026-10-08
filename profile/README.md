@@ -14,7 +14,8 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/website-cpintl.org-017CF5?style=for-the-badge&labelColor=02091C)](https://cpintl.org/)
+[![CPINTLWebsite](https://img.shields.io/badge/website-cpintl.org-2d2926?style=for-the-badge&labelColor=d91e4d)](https://cpintl.org/)  
+[![CPI-Bangladesh Website](https://img.shields.io/badge/website-cpintl.org/bangladesh-2d2926?style=for-the-badge&labelColor=d91e4d)](https://cpintl.org/bangladesh/)
 
 <br>
 
