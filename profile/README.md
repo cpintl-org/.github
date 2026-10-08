@@ -31,13 +31,14 @@ Managed by **Mohammad Ariful ISLAM**, Health Program Manager (HPM), Bangladesh M
 
 ## 🧭 Our repositories
 
-Three repositories make up this organization. Click a card's link to open it. Private repositories open only for authorized members; anyone else sees a "404 Not Found" page, which is expected.
+Four repositories currently make up this organization, including this special `.github` profile repository. Click a card's link to open it. Private repositories open only for authorized members; anyone else sees a "404 Not Found" page, which is expected.
 
 | | Repository | Purpose | Access |
 |:-:|---|---|:-:|
+| 🧭 | [**.github**](https://github.com/cpintl-org/.github) | Organization profile and shared public contribution/security guidance | ![Public](https://img.shields.io/badge/access-public-4298B5?style=flat-square) |
 | 🌐 | [**cpintl-org.github.io**](https://github.com/cpintl-org/cpintl-org.github.io) | GitHub Pages site of the organization | ![Public](https://img.shields.io/badge/access-public-4298B5?style=flat-square) |
 | 🤖 | [**agent-hub**](https://github.com/cpintl-org/agent-hub) | Provider-neutral hub of reusable agent roles, skills, guardrails, templates, prompts, and an optional Google Workspace bridge | ![Private](https://img.shields.io/badge/access-private-41273B?style=flat-square&logo=github&logoColor=white) |
-| 📚 | [**docs**](https://github.com/cpintl-org/docs) | Documentation repository | ![Private](https://img.shields.io/badge/access-private-41273B?style=flat-square&logo=github&logoColor=white) |
+| 📚 | [**docs**](https://github.com/cpintl-org/docs) | Documentation repository; currently public until its visibility is intentionally changed | ![Public](https://img.shields.io/badge/access-public-4298B5?style=flat-square) |
 
 <details>
 <summary><b>🌐 &nbsp;GitHub Pages site</b> — click to expand</summary>
@@ -70,10 +71,10 @@ A provider-neutral set of instructions and configuration templates for working w
 
 <br>
 
-The documentation repository.
+The documentation repository. It is currently public; do not place private material here until its visibility is intentionally changed.
 
-- Repository: [`cpintl-org/docs`](https://github.com/cpintl-org/docs) · **private**
-- Share only with authorized members.
+- Repository: [`cpintl-org/docs`](https://github.com/cpintl-org/docs) · **public**
+- Share only content that is safe for anyone to read until its visibility is intentionally changed.
 
 </details>
 
